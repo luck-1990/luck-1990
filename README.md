@@ -14,7 +14,7 @@
 ## Hobbies
 - Trilhas
 - montanhismo 🌄
-- ciclismo 🚵
+- ciclismo 🚴🏻
 - corrida
 -  programar 💻
 
