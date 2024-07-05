@@ -1,16 +1,21 @@
-## Hi there 👋
+# Lucas Souza de Farias
+## Quem sou 
+###### Olá, sou o Luck. Formado em Gestão financeira e estudande de Análise e Desenvolvimento de Sistemas no Senac Novo Hamburgo. 
 
-<!--
-**luck-1990/luck-1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Educação 
+###### Ex-estudante de Química Industrial pela UFPEL e Engenharia Química pela Unisinos, formado em Gestão financeira pela UNILASALLE, e atualmente cursando ADS no Senac Novo Hamburgo.
+
+## Experiência de Trabalho 
+ 1. Estagiário laboratório de sintese orgânica UFPEL 
+1. Agente de Tratamento e análise de Afluentes em CORSAN
+
+## Hobbies
+- Trilhas
+- montanhismo 🌄
+- ciclismo
+- corrida
+-  programar 💻
+
+#### Meu Instagram [link para instagram] (https://instagram.com/luck_1990).
