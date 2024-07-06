@@ -18,7 +18,7 @@
 - corrida
 -  programar 💻
 
-Meu Instagram [link para instagram](https://instagram.com/luck_1990).
+Meu Instagram [link para instagram](https://instagram.com/_luck1990).
 
 
 ![foto](menor2.jpg.jpg)
