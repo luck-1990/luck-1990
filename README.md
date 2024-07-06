@@ -8,7 +8,7 @@
 ###### Ex-estudante de Química Industrial pela UFPEL e Engenharia Química pela Unisinos, formado em Gestão financeira pela UNILASALLE, e atualmente cursando ADS no Senac Novo Hamburgo.
 
 ## Experiência de Trabalho 
- 1. Estagiário laboratório de sintese orgânica UFPEL 
+ 1. Estagiário laboratório de síntese orgânica UFPEL 
 1. Agente de Tratamento e análise de Afluentes em CORSAN
 
 ## Hobbies
