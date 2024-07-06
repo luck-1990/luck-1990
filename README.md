@@ -19,4 +19,4 @@
 -  programar 💻
 
 Meu Instagram [link para instagram](https://instagram.com/luck_1990).
-![foto](menor2.jpg)
+![foto](menor2.jpg.jpg)
