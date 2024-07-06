@@ -16,7 +16,7 @@
 - montanhismo 🌄
 - ciclismo 🚴🏻
 - corrida
--  programar 💻
+- programação 💻
 
 Meu Instagram [link para instagram](https://instagram.com/_luck1990).
 
