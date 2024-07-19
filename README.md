@@ -1,11 +1,11 @@
 # Lucas Souza de Farias
 ## Quem sou 
-###### Olá, sou o Luck. Formado em Gestão financeira e estudande de Análise e Desenvolvimento de Sistemas no Senac Novo Hamburgo. 
+###### Olá, sou o Luck. Formado em Gestão financeira, pós graduando em Economia e estudande de Análise e Desenvolvimento de Sistemas. 
 
 
 
 ## Educação 
-###### Ex-estudante de Química Industrial pela UFPEL e Engenharia Química pela Unisinos, formado em Gestão financeira pela UNILASALLE, e atualmente cursando ADS no Senac Novo Hamburgo.
+###### Ex-estudante de Química Industrial pela UFPEL e Engenharia Química pela Unisinos, formado em Gestão financeira pós-graduando em Economia, e atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 ## Experiência de Trabalho 
  1. Estagiário laboratório de síntese orgânica UFPEL 
